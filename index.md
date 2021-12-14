@@ -4,6 +4,12 @@
 
 <img src="./headshot_.jpg" alt="drawing" width="400"/>
 
+### About Me
+I'm a graduate student studying machine learning with interests including computer vision, image to text translation, NLP, recommender systems, quantitative finance and more!
+I'm currently a second year master's student at the University of California, San Diego specializing in Machine Learning and Data Science. 
+
+Before Studying at UCSD, I studied Computer Engineering at Michigan State University, and later worked as a software integration engineer at General Motors where I worked on l2 and L2+ autonomous vehicles. 
+
 You can use the [editor on GitHub](https://github.com/jboboyle/Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
