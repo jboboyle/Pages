@@ -29,3 +29,22 @@ Before Studying at UCSD, I studied Computer Engineering at Michigan State Univer
 - Search and Optimization
 - [Introduction to Mathematical Finance]()
 
+# Projects 
+# MusX - A Dashboard for Personalized Music Recommendation and Self Discovery
+# SGL-DANN - Domain Adaptation using Small Group Learning Framework
+# Deep Embedded Clustering of Antarctic Seismic Data
+
+# Work Experience
+
+### ScriptChain Health: Machine Learning Intern
+- Developed a cardiovascular disease prediction model using Graph Neural Networks to assist in early disease 
+detection and prevention
+- Obtained skills in data processing, model reseach and deep neural net design 
+### General Motors: Software Integration Engineer
+- Analyzed ECU communication signals and CAN traffic to diagnose issues in level 3 autonomous vehicles
+- Designed software testing/validation procedures for rollover, side, and front collisions in development vehicles
+### Genera Motors: 
+- Wrote software for a water flow monitoring system expected to save 750k in manufacturing losses per year
+- Designed and implemented software changes to resolve recurring issues plant employees and machine interfaces
+- Performed electrical and software maintenance to troubleshoot downed robotics and casting machines 
+
