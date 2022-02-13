@@ -30,9 +30,9 @@ Before Studying at UCSD, I studied Computer Engineering at Michigan State Univer
 - [Introduction to Mathematical Finance]()
 
 # Projects 
-# MusX - A Dashboard for Personalized Music Recommendation and Self Discovery
-# SGL-DANN - Domain Adaptation using Small Group Learning Framework
-# Deep Embedded Clustering of Antarctic Seismic Data
+### MusX - A Dashboard for Personalized Music Recommendation and Self Discovery
+### SGL-DANN - Domain Adaptation using Small Group Learning Framework
+### Deep Embedded Clustering of Antarctic Seismic Data
 
 # Work Experience
 
