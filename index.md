@@ -3,6 +3,9 @@ test test test ets
 <img src="./headshot_.jpg" alt="drawing" width="400"/>
 
 ### About Me
+
+
+why why why why
 I'm a graduate student studying machine learning with interests including computer vision, image to text translation, NLP, recommender systems, quantitative finance and more!
 I'm currently a second year master's student at the University of California, San Diego specializing in Machine Learning and Data Science. 
 
