@@ -1,4 +1,3 @@
-# Jack  O'Boyle
 
 <img src="./headshot_.jpg" alt="drawing" width="400"/>
 
