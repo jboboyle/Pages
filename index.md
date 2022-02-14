@@ -30,7 +30,7 @@ Before Studying at UCSD, I studied Computer Engineering at Michigan State Univer
 - [Introduction to Mathematical Finance]()
 
 # Projects 
-### MusX - A Dashboard for Personalized Music Recommendation and Self Discovery
+### [MusX](https://github.com/jboboyle/ECE229) - A Dashboard for Personalized Music Recommendation and Self Discovery
 ### SGL-DANN - Domain Adaptation using Small Group Learning Framework
 ### Deep Embedded Clustering of Antarctic Seismic Data
 
@@ -43,8 +43,8 @@ detection and prevention
 ### General Motors: Software Integration Engineer
 - Analyzed ECU communication signals and CAN traffic to diagnose issues in level 3 autonomous vehicles
 - Designed software testing/validation procedures for rollover, side, and front collisions in development vehicles
-### Genera Motors: 
+### General Motors: Electrical Engineering Intern
 - Wrote software for a water flow monitoring system expected to save 750k in manufacturing losses per year
-- Designed and implemented software changes to resolve recurring issues plant employees and machine interfaces
+- Designed and implemented software changes to resolve recurring issues between plant employees and machine interfaces
 - Performed electrical and software maintenance to troubleshoot downed robotics and casting machines 
 
