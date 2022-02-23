@@ -4,7 +4,7 @@
 # About Me
 
 
-I'm an Electrical and Computer Engineering Master's student specializing in Machine Learning Data Science at University of California San Diego. I'm interested in applications machine learning in areas such as computer vision, time series forecasting, quantitative finance and more! I will be graduating in March of 2022 and looking for full time positions in Data Science and Software Engineering.  
+I'm an Electrical and Computer Engineering Master's student specializing in Machine Learning Data Science at University of California San Diego. I'm interested in applications machine learning in areas such as computer vision, time series forecasting, quantitative finance and more! I will be graduating in March of 2022 and am looking for full time positions in Data Science and Software Engineering.  
 
 Before Studying at UCSD, I studied Computer Engineering at Michigan State University, and later worked as a software integration engineer at General Motors where I worked on l2 and L2+ autonomous vehicles.
 
