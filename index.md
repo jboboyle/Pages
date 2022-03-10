@@ -50,6 +50,6 @@ detection and prevention
 
 
 # Contact 
-- [Linkedin](https://www.linkedin.com/in/jack-o-boyle-209b28170/)
-- jboboyle at ucsd dot edu
+- email: jboboyle at ucsd dot edu - *preferred*
+- [Linkedin](https://www.linkedin.com/in/jack-o-boyle-209b28170/) 
 
