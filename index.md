@@ -1,8 +1,7 @@
 
 <img src="./headshot_.jpg" alt="drawing" width="400"/>
 
-# About Me
-
+# About
 
 I'm an Electrical and Computer Engineering Master's student specializing in Machine Learning Data Science at University of California San Diego. I'm interested in applications machine learning in areas such as computer vision, time series forecasting, quantitative finance and more! I will be graduating in March of 2022 and am looking for full time positions in Data Science and Software Engineering.  
 
@@ -31,7 +30,7 @@ Before Studying at UCSD, I studied Computer Engineering at Michigan State Univer
 
 # Projects 
 ### [Mus-X](https://github.com/jboboyle/ECE229) - A Dashboard for Personalized Music Recommendation and Self Discovery
-### SGL-DANN - Domain Adaptation using Small Group Learning Framework
+### [SGL-DANN](https://github.com/jboboyle/SGL-DANN-Updated) - Domain Adaptation using Small Group Learning Framework
 ### Deep Embedded Clustering of Antarctic Seismic Data
 
 # Work Experience
