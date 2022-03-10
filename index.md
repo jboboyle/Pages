@@ -19,7 +19,7 @@ Before Studying at UCSD, I studied Computer Engineering at Michigan State Univer
 - [Statistical Learning I](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
 - [Statistical Learning II](http://www.svcl.ucsd.edu/courses/ece271B-F09/)
 - [Machine Learning for Physical Appplications](https://catalog.ucsd.edu/courses/ECE.html#ece228)
-- [Intro to Deep Learning and Applications](https://xiaolonw.github.io/ece176/index.html)
+- [Intro to Deep Learning and Applications](https://xiaolonw.github.io/ece176/schedule.html)
 - [Machine Learning Algorithims](https://cse.ucsd.edu/graduate/courses/course-descriptions/cse250b-principles-artificial-intelligence-learning-algorithms)
 - [Web Mining and Recommender Systems](https://cseweb.ucsd.edu/classes/fa21/cse258-b/)
 
@@ -47,4 +47,9 @@ detection and prevention
 - Wrote software for a water flow monitoring system expected to save 750k in manufacturing losses per year
 - Designed and implemented software changes to resolve recurring issues between plant employees and machine interfaces
 - Performed electrical and software maintenance to troubleshoot downed robotics and casting machines 
+
+
+# Contact 
+- [Linkedin](https://www.linkedin.com/in/jack-o-boyle-209b28170/)
+- jboboyle at ucsd dot edu
 
