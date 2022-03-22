@@ -29,10 +29,10 @@ Before Studying at UCSD, I studied Computer Engineering at Michigan State Univer
 - [Introduction to Mathematical Finance]()
 
 # Projects 
-### Stock Price Prediction With Convex Neural Networks - [Paper](https://github.com/jboboyle/jboboyle.github.io/tree/gh-pages/docs/ECE_271B_Report.pdf)
-### [Mus-X](https://github.com/jboboyle/ECE229) - A Dashboard for Personalized Music Recommendation and Self Discovery
-### [SGL-DANN](https://github.com/jboboyle/jboboyle.github.io/tree/gh-pages/docs/SGL-DANN.pdf) - Domain Adaptation using Small Group Learning Framework
-### Deep Embedded Clustering of Antarctic Seismic Data
+- Stock Price Prediction With Convex Neural Networks - [Paper](https://github.com/jboboyle/jboboyle.github.io/tree/gh-pages/docs/ECE_271B_Report.pdf)
+- [Mus-X](https://github.com/jboboyle/ECE229) - A Dashboard for Personalized Music Recommendation and Self Discovery
+- [SGL-DANN](https://github.com/jboboyle/jboboyle.github.io/tree/gh-pages/docs/SGL-DANN.pdf) - Domain Adaptation using Small Group Learning Framework
+- Deep Embedded Clustering of Antarctic Seismic Data
 
 # Work Experience
 
