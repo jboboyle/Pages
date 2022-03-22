@@ -29,6 +29,7 @@ Before Studying at UCSD, I studied Computer Engineering at Michigan State Univer
 - [Introduction to Mathematical Finance]()
 
 # Projects 
+<a href="https://github.com/jboboyle/jboboyle.github.io/tree/gh-pages/docs/SGL-DANN.pdf" target="_blank">PDF.</a>
 ### [Mus-X](https://github.com/jboboyle/ECE229) - A Dashboard for Personalized Music Recommendation and Self Discovery
 ### [SGL-DANN](https://github.com/jboboyle/SGL-DANN-Updated) - Domain Adaptation using Small Group Learning Framework
 ### Deep Embedded Clustering of Antarctic Seismic Data
