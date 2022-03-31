@@ -29,10 +29,22 @@ Before Studying at UCSD, I studied Computer Engineering at Michigan State Univer
 - [Introduction to Mathematical Finance]()
 
 # Projects 
-- Stock Price Prediction With Convex Neural Networks - [Paper](https://github.com/jboboyle/jboboyle.github.io/tree/gh-pages/docs/ECE_271B_Report.pdf)
-- [Mus-X](https://github.com/jboboyle/ECE229) - A Dashboard for Personalized Music Recommendation and Self Discovery
-- [SGL-DANN](https://github.com/jboboyle/jboboyle.github.io/tree/gh-pages/docs/SGL-DANN.pdf) - Domain Adaptation using Small Group Learning Framework
-- Deep Embedded Clustering of Antarctic Seismic Data
+### Stock Price Prediction With Convex Neural Networks [_](https://github.com/jboboyle/jboboyle.github.io/tree/gh-pages/docs/ECE_271B_Report.pdf)
+- Using the ideas presented by (Pilanci and Ergen 2020), formulated a two-layer neural network into its dual form equivalent convex network.
+- Compared convex network performance with a standard (non-convex) two-layer ReLU in predicting a scalar price change in stock data.
+- Implemented a naive trading bot using network predictions to evaluate each model’s deployment feasibility
+
+### [Mus-X](https://github.com/jboboyle/ECE229) - A Dashboard for Personalized Music Recommendation and Self Discovery
+- Created an AWS hosted web-application to provide Spotify users to a platform to learn about their music listening tastes and trends.
+- Built interactive UI displays and created a music recommender system using collaborative filtering and cosine similarity. 
+
+### [SGL-DANN](https://github.com/jboboyle/jboboyle.github.io/tree/gh-pages/docs/SGL-DANN.pdf) - Domain Adaptation using Small Group Learning Framework
+- Worked with a team of graduate students to build upon a ML model based on human peer to peer learning known as small group learning (SGL) (Du and Xie, 2020). 
+- Integrated domain-adversarial neural networks into SGL model approach to evaluate SGL as a solution to domain adaption problems.  
+
+### Deep Embedded Clustering of Antarctic Seismic Data
+- Implemented a deep embedded clustering (DEC) model to interpret unlabeled seismic data collected from Antarctica.
+- Tested a new DEC model by replacing the autoencoder with U-Net to compare clustering performance between the two approaches.
 
 # Work Experience
 
