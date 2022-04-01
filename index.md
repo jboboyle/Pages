@@ -29,6 +29,7 @@ Before Studying at UCSD, I studied Computer Engineering at Michigan State Univer
 - [Introduction to Mathematical Finance]()
 
 # Projects 
+
 ### Stock Price Prediction With Convex Neural Networks -[Paper](https://github.com/jboboyle/jboboyle.github.io/tree/gh-pages/docs/ECE_271B__Final_Report.pdf)
 - Using the ideas presented by (Pilanci and Ergen 2020), formulated a two-layer neural network into its dual form equivalent convex network.
 - Compared convex network performance with a standard (non-convex) two-layer ReLU in predicting a scalar price change in stock data.
@@ -51,7 +52,7 @@ Before Studying at UCSD, I studied Computer Engineering at Michigan State Univer
 ### ScriptChain Health: Machine Learning Intern
 - Developed a cardiovascular disease prediction model using Graph Neural Networks to assist in early disease 
 detection and prevention
-- Obtained skills in data processing, model reseach and deep neural net design 
+- Obtained skills in data preprocessing, model reseach and deep net design for sparse data 
 ### General Motors: Software Integration Engineer
 - Analyzed ECU communication signals and CAN traffic to diagnose issues in level 3 autonomous vehicles
 - Designed software testing/validation procedures for rollover, side, and front collisions in development vehicles
