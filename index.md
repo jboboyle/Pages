@@ -3,7 +3,7 @@
 
 # About
 
-I'm an Electrical and Computer Engineering Master's student specializing in Machine Learning Data Science at University of California San Diego. I'm interested in applications machine learning in areas such as computer vision, time series forecasting, quantitative finance and more! I will be graduating in March of 2022 and am looking for full time positions in Data Science and Software Engineering.  
+I'm an Electrical and Computer Engineering Master's student specializing in Machine Learning Data Science at University of California San Diego. I'm interested in applications machine learning in areas such as computer vision, time series forecasting, quantitative finance, cyber security and more! I will be graduating in March of 2022 and am looking for full time positions in Data Science and Software Engineering.  
 
 Before Studying at UCSD, I studied Computer Engineering at Michigan State University, and later worked as a software integration engineer at General Motors where I worked on l2 and L2+ autonomous vehicles.
 
@@ -29,7 +29,7 @@ Before Studying at UCSD, I studied Computer Engineering at Michigan State Univer
 - [Introduction to Mathematical Finance]()
 
 # Projects 
-### Stock Price Prediction With Convex Neural Networks [_](https://github.com/jboboyle/jboboyle.github.io/tree/gh-pages/docs/ECE_271B_Report.pdf)
+### Stock Price Prediction With Convex Neural Networks -[Paper](https://github.com/jboboyle/jboboyle.github.io/tree/gh-pages/docs/ECE_271B__Final_Report.pdf)
 - Using the ideas presented by (Pilanci and Ergen 2020), formulated a two-layer neural network into its dual form equivalent convex network.
 - Compared convex network performance with a standard (non-convex) two-layer ReLU in predicting a scalar price change in stock data.
 - Implemented a naive trading bot using network predictions to evaluate each model’s deployment feasibility
