@@ -3,9 +3,9 @@
 
 # About
 
-I'm an Electrical and Computer Engineering Master's student specializing in Machine Learning Data Science at University of California San Diego. I'm interested in applications machine learning in areas such as computer vision, time series forecasting, quantitative finance, cybersecurity and more! I will be graduating in March of 2022 and am looking for full time positions in Data Science and Software Engineering.  
+I an Electrical and Computer Engineering Master's student with a specialization in Machine Learning Data Science at University of California San Diego. I'm interested in applications of machine learning in areas such as computer vision, time series forecasting, quantitative finance, cybersecurity and more. I will be graduating in March of 2022 and am looking for full time positions in Data Science, Machine Learning, and Software Engineering.  
 
-Before Studying at UCSD, I studied Computer Engineering at Michigan State University, and later worked as a software integration engineer at General Motors where I worked on l2 and L2+ autonomous vehicles.
+Before Studying at UCSD, I studied Computer Engineering at Michigan State University, and later worked as a software integration engineer at General Motors where I worked on autonomous driving development.
 
 # Graduate Coursework
 
@@ -23,10 +23,10 @@ Before Studying at UCSD, I studied Computer Engineering at Michigan State Univer
 - [Web Mining and Recommender Systems](https://cseweb.ucsd.edu/classes/fa21/cse258-b/)
 
 ### General/Electives 
-- Programming for Data Analysis 
-- Computational Data Analysis and Product Development 
-- Search and Optimization
-- [Introduction to Mathematical Finance]()
+- [Search and Optimization](https://scungao.github.io/ucsd-f21/cse257f21.pdf)
+- [Programming for Data Analysis](https://catalog.ucsd.edu/courses/ECE.html#ece143)
+- [Computational Data Analysis and Product Development](https://catalog.ucsd.edu/courses/ECE.html#ece229)
+- Introduction to Mathematical Finance
 
 # Projects 
 
@@ -57,7 +57,7 @@ detection and prevention
 - Analyzed ECU communication signals and CAN traffic to diagnose issues in level 3 autonomous vehicles
 - Designed software testing/validation procedures for rollover, side, and front collisions in development vehicles
 ### General Motors: Electrical Engineering Intern
-- Wrote software for a water flow monitoring system expected to save 750k in manufacturing losses per year
+- Wrote software for a water flow monitoring resulting in an estimated savings of 750k in manufacturing costs per year
 - Designed and implemented software changes to resolve recurring issues between plant employees and machine interfaces
 - Performed electrical and software maintenance to troubleshoot downed robotics and casting machines 
 
